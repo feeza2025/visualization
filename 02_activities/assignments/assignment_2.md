@@ -12,10 +12,40 @@
       ```
       Your answer...
 
+      Good Data Visualization
+      Link: https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
+
+      I categorized this visualization as good because of its aesthetic and the storytelling in relaying information that is clear and easy to understand (perceptual). However, there is also opportunity for improvements. 
+
+        + There is use of familiar charts, so less time is spent trying to understand the charts (cognitive load).  
+        
+        + Multiple elements such as titles, legends, label on the x axis, tooltips are used to provide explanation and context. 
+        
+        + The main title is clear and informative. Most of the charts are framed as a simple question, with the visualization directly answering it, which strengthens the storytelling aspect. Descriptive paragraphs offer additional information, but they are not necessary to understand the core message. Annotation lines are used as a form of educational piece in one of the charts that present technical information that some users may not be familiar with.
+
+        + Gestalt principle of enclosure is applied. Each topic is covered in its own shadowed box. 
+
+        + It meets three of the four conventions of data visualization (Sociologists Kennedy et al.) that reinforces perceived objectivity and factual basis of visualization: two-dimensional image, clean layout and use of geometric shapes and lines.  
 
 
+      Poor Data Visualization
+      Link: https://public.tableau.com/app/profile/rizzshi/viz/MedicalSupplierAnalysis/Dashboard1
 
+      There are positive elements to this data visualization, but I classified it as poor data visualization because of the amount of work needed to take in the information presented (cognitive load). 
 
+        - The main title of the data visualization is not clear. At first, I would think it is ‘Hi Rishi, Have a Great Day’. This takes away from grasping the messaging of the data visualization.
+        
+        - I am not sure why some of the icons are used, for example, the sphere, house etc. There is also repeated use of the LaDataViz logo. This adds extra clutter and increase the cognitive load without providing a clear purpose. The gradient also seems to add to the noise without providing a clear purpose. Not sure what the tiny arrows represent in ‘Supply Coverage Depth’ and ‘Top Supplies / Providers’ charts. More visual elements increase cognitive load.
+
+        - The radial / chord sheet does not appear to be a familiar chart, or at least, it does not seem to be the ideal graph to present the ‘Market Leader Share’ data. Firstly, it took time to understand what information was presented, without the paragraph it probably would have been impossible. Not sure if the paragraph needs to be so detailed (cognitive load). There are many lines from a month to years and they are tightly connected. It takes some effort to highlight a desired month to a year. At a zoom out level some lines appear cut off from in between - with so many other lines, it's difficult to connect the dot. All of these extra steps add to working memory, but working memory is limited.
+
+        - The tooltip has to be used to identify the x and y axis data for the area and the sparkline charts. It's difficult to have an overall view of how each month is separated. This require using the working memory.
+
+        - I was unable to find the source of the data that was presented. One of the four conventions of data visualization that reinforces the perceived objectivity and factual basis of a visualization is inclusion of data source at the bottom of the image.
+
+        - There doesn’t seem to be enough contrast between the light gray texts and white background (accessibility concern). 
+
+        - None of the x and y axes are labelled. Highly reliant on the tooltip to provide additional information. I am not sure how the experience would be for users who only use the keyboard for navigation or how well tableau supports navigating tooltips with keyboard (possible web accessibility concern).
 
 
       ```
@@ -23,9 +53,40 @@
       ```
       Your answer...
 
+      How to improve the Good Data Visualization?
+      Link: https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
+
+        + I was unable to find the source of the data that was presented. Adding the data source would have greatly helped with trusting the information that was presented.
+
+        + For web accessibility, there is not enough between some of the colors that are used together. For example, the following color combinations failed the web aim color contrast checker test (https://webaim.org/resources/contrastchecker/). Persons with visual impairment (low vision) may experience difficulty scanning the graph.
+
+            * the light gray (#ecf1ef) and the white background (#fff)
+            * the light blue (#89d9e5) and the light gray (#ecf1ef) 
+            * the light blue (#89d9e5) and the light lilac (#ccb5ff)
+    
+        Increasing the contrast of the colours or creative use of outlines and shapes could make the charts more accessible. 
 
 
+        How to improve the Poor Data Visualization?
+        Link: https://public.tableau.com/app/profile/rizzshi/viz/MedicalSupplierAnalysis/Dashboard1
 
+        + I was unable to find the source of the data that was presented. Adding the data source would have greatly helped with trusting the information that was presented.
+
+        + Have a clear main title. This will help us to understand the message of the visualization (perceptual). 
+        
+        + Add clear title to the charts to add to the storytelling. 
+        
+        + Add labels on the x and y axis where needed.
+
+        + Remove visual elements that do not serve a clear purpose. This will help reduce the cognitive load.
+
+        + For web accessibility, increase contrast where needed.   
+
+        + For participation chord, explore using a more common chart type, or present the information in more than one simple charts, if needed.
+
+        + For the charts at the top, the summary is for comparison between two months, but the sparkline charts show yearly info. If the purpose is only to compare two months, perhaps we could make the sparkline graphs simpler by only presenting the two months data or remove them entirely.
+
+        + Make the user less reliant on the tooltip which adds to the working memory. They are great for additional information, but the user should still be able to grasp the core message without relying on the tooltips.
 
 
       
