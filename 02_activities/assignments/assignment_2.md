@@ -17,7 +17,11 @@
 
       I categorized this visualization as good because of its aesthetic and the storytelling in relaying information that is clear and easy to understand (perceptual). However, there is also opportunity for improvements. 
 
-        + There is use of familiar charts, so less time is spent trying to understand the charts (cognitive load).  Multiple elements such as titles, legends, label on the x axis, tooltips are used to provide explanation and context. The main title is clear and informative. Most of the charts are framed as a simple question, with the visualization directly answering it, which strengthens the storytelling aspect. Descriptive paragraphs offer additional information, but they are not necessary to understand the core message. Annotation lines are used as a form of educational piece in one of the charts that present technical information that some users may not be familiar with.
+        + There is use of familiar charts, so less time is spent trying to understand the charts (cognitive load).  
+        
+        + Multiple elements such as titles, legends, label on the x axis, tooltips are used to provide explanation and context. 
+        
+        + The main title is clear and informative. Most of the charts are framed as a simple question, with the visualization directly answering it, which strengthens the storytelling aspect. Descriptive paragraphs offer additional information, but they are not necessary to understand the core message. \n Annotation lines are used as a form of educational piece in one of the charts that present technical information that some users may not be familiar with.
 
         + Gestalt principle of enclosure is applied. Each topic is covered in its own shadowed box. 
 
