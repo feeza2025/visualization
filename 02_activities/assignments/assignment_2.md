@@ -62,9 +62,9 @@
     
         Increasing the contrast of the colours or creative use of outlines and shapes could make the charts more accessible. 
 
+
         How to improve the Poor Data Visualization?
         Link: https://public.tableau.com/app/profile/rizzshi/viz/MedicalSupplierAnalysis/Dashboard1
-
 
         + I was unable to find the source of the data that was presented. Adding the data source would have greatly helped with trusting the information that was presented.
 
