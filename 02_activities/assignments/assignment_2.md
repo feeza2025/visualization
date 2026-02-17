@@ -37,7 +37,9 @@
         
         - I am not sure why some of the icons are used, for example, the sphere, house etc. There is also repeated use of the LaDataViz logo. This adds extra clutter and increase the cognitive load without providing a clear purpose. The gradient also seems to add to the noise without providing a clear purpose. Not sure what the tiny arrows represent in ‘Supply Coverage Depth’ and ‘Top Supplies / Providers’ charts. More visual elements increase cognitive load.
 
-        - The radial / chord sheet does not appear to be a familiar chart, or at least, it does not seem to be the ideal graph to present the ‘Market Leader Share’ data. Firstly, it took time to understand what information was presented, without the paragraph it probably would have been impossible. Not sure if the paragraph needs to be so detailed (cognitive load). There are many lines from a month to years and they are tightly connected. It takes some effort to highlight a desired month to a year. At a zoom out level some lines appear cut off from in between - with so many other lines, it's difficult to connect the dot. All of these extra steps add to working memory, but working memory is limited.
+        - The radial / chord sheet does not appear to be a familiar chart, or at least, it does not seem to be the ideal graph to present the ‘Market Leader Share’ data. 
+        
+        Firstly, it took time to understand what information was presented, without the paragraph it probably would have been impossible. Not sure if the paragraph needs to be so detailed (cognitive load). There are many lines from a month to years and they are tightly connected. It takes some effort to highlight a desired month to a year. At a zoom out level some lines appear cut off from in between - with so many other lines, it's difficult to connect the dot. All of these extra steps add to working memory, but working memory is limited.
 
         - The tooltip has to be used to identify the x and y axis data for the area and the sparkline charts. It's difficult to have an overall view of how each month is separated. This require using the working memory.
 
