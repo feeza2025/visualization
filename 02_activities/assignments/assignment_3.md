@@ -10,7 +10,9 @@
 
     # Python
     > What software did you use to create your data visualization?
-    Please see assignment3 notebook in this directory
+    Python and seaborn library. Please see assignment3 notebook in this directory.
+    Notebook: https://github.com/feeza2025/visualization/blob/assignment-3/02_activities/assignments/assignment3.ipynb
+    PNG file: https://github.com/feeza2025/visualization/blob/assignment-3/02_activities/assignments/assignment3_python_data_viz.png
 
     > Who is your intended audience? 
     People who would like to improve the lives of seniors, for example, social workers, policy makers etc. 
