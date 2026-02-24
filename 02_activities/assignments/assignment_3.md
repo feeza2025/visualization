@@ -21,7 +21,7 @@
     In this case, I am trying to bring awareness to the concerns of roughly 12 percent of respondents who are 65 years or olders and do not have persons they can call for help if needed. 
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    I try to focus on storytelling. So, I had to explore the dataset and try to gain context into the lives of the respondents. I added descriptive titles, compare charts and also use the 'colorblind' theme for accessibility. 
+    I tried to focus on storytelling and cognitive load. So, I had to explore the dataset and try to gain context into the lives of the respondents. I added descriptive titles, compare charts and also use the 'colorblind' theme for accessibility. For cognitive load, I used chart types that are common.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     The data visualization was created with python, and the code is accessible. I also added a link to the original source of the data. I also added random.seed(), but it may not be needed in this case. 
@@ -55,7 +55,7 @@
     The message is informative. In 2017, seniors in Toronto share which term(s) they preferred when referring to people age 65 years and older. Using the more popular terminology may enable smoother communication.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    I consider accessibility, reproducibility and storytelling. For accessibility, I used 'Courier New' because it is a monospaced text, added separation between the bars and added an alt text in the spreadsheet. For reproducility I added a link to the original data source and also a link to the spreadsheet.
+    I consider accessibility, reproducibility, cognitive load and storytelling. For accessibility, I used 'Courier New' because it is a monospaced text, added separation between the bars and added an alt text in the spreadsheet. For cognitive load, I used a chart type that is common. For reproducility I added a link to the original data source and also a link to the spreadsheet.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     For reproducility I added a link to the original data source and also a link to the spreadsheet. Published charts are not reproducible unless the data source is provided. If not provided, this will affect how much other trust the information presented.
