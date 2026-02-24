@@ -38,23 +38,37 @@
 
 
     # Google Spreadsheet
+    Published Chart: https://docs.google.com/spreadsheets/d/e/2PACX-1vS0ZGHFjBR1kleblCwXLICGru0D9ooC3qrFfpvHWBKCxNELzDeorjCJTDdsqY0Y2MXdB2b7YUx3ItAI/pubchart?oid=1005890649&format=interactive
+
+    Google Sheet: https://docs.google.com/spreadsheets/d/1twKJrdhFoIcCtQABVVAlrCuJnz3B0o55ChGGKn0BEPo/edit?usp=sharing
+
+
     > What software did you use to create your data visualization?
+    Google Sheets
 
     > Who is your intended audience? 
+    Persons who are working or interacting with seniors.
     
     > What information or message are you trying to convey with your visualization? 
+    The message is informative. In 2017, seniors in Toronto share which term(s) they preferred when referring to people age 65 years and older. Using the more popular terminology may enable smoother communication.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+    I consider accessibility, reproducibility and storytelling. For accessibility, I used 'Courier New' because it is a monospaced text, added separation between the bars and added an alt text in the spreadsheet. For reproducility I added a link to the original data source and also a link to the spreadsheet.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    For reproducility I added a link to the original data source and also a link to the spreadsheet. Published charts are not reproducible unless the data source is provided. If not provided, this will affect how much other trust the information presented.
     
     > How did you ensure that your data visualization is accessible?  
+    For accessibility, I used 'Courier New' because it is a monospaced text, added separation between the bars and added an alt text in the spreadsheet.
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+    This might be valuable information for people who work and interact with seniors often, such as social workers, personal support workers etc
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    It was difficult to choose because the datasource has a wealth of data. I chose this feature because as I was working on the other data visualization, I was wondering what term should I use to refer to the respondents. Using senior (instead of respondents) will help bring more context to the data visualization.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    I used pivot chart in excel to summarize the data and then used it to create the chart.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
