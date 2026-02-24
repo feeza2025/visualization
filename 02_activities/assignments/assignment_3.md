@@ -7,6 +7,37 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
+
+    # Python
+    > What software did you use to create your data visualization?
+    Please see assignment3 notebook in this directory
+
+    > Who is your intended audience? 
+    People who would like to improve the lives of seniors. 
+    
+    > What information or message are you trying to convey with your visualization? 
+    In this case, I am trying to bring awareness to the concerns of roughly 12 percent of respondents who are 65 years or olders and do not have persons they can call for help if needed. 
+    
+    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+    I try to focus on storytelling. So, I had to explore the dataset and try to gain context into the lives of the respondents. I added descriptive titles, compare charts and also use the 'colorblind' theme for accessibility. 
+    
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    The data visualization was created python. I also added the original source of the data. It may not be needed in this case, but I also added random.seed.
+    
+    > How did you ensure that your data visualization is accessible?  
+    I used the 'colorblind' theme in hope of supporting accessibility. I added descriptive texts.
+    
+    > Who are the individuals and communities who might be impacted by your visualization?  
+    Persons who are 65 years and olders who do not have someone they can call for help if needed.
+    
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    Because I wanted to focus on seniors and mostly those who are retired, I added filtering to only include those who are 65 year or older.
+    
+    > What ‘underwater labour’ contributed to your final data visualization product?
+    A lot of data exploration
+
+
+    # Google Spreadsheet
     > What software did you use to create your data visualization?
 
     > Who is your intended audience? 
