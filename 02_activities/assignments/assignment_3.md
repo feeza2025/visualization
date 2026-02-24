@@ -24,7 +24,7 @@
     I try to focus on storytelling. So, I had to explore the dataset and try to gain context into the lives of the respondents. I added descriptive titles, compare charts and also use the 'colorblind' theme for accessibility. 
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    The data visualization was created with python, and the code is accessible. I also added the original source of the data. It may not be needed in this case, but I also added random.seed. 
+    The data visualization was created with python, and the code is accessible. I also added a link to the original source of the data. I also added random.seed(), but it may not be needed in this case. 
     
     > How did you ensure that your data visualization is accessible?  
     I used the 'colorblind' theme in hope of supporting accessibility. I added descriptive texts.
