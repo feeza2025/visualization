@@ -13,7 +13,7 @@
     Please see assignment3 notebook in this directory
 
     > Who is your intended audience? 
-    People who would like to improve the lives of seniors. 
+    People who would like to improve the lives of seniors, for example, social workers, policy makers etc. 
     
     > What information or message are you trying to convey with your visualization? 
     In this case, I am trying to bring awareness to the concerns of roughly 12 percent of respondents who are 65 years or olders and do not have persons they can call for help if needed. 
@@ -22,7 +22,7 @@
     I try to focus on storytelling. So, I had to explore the dataset and try to gain context into the lives of the respondents. I added descriptive titles, compare charts and also use the 'colorblind' theme for accessibility. 
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    The data visualization was created python. I also added the original source of the data. It may not be needed in this case, but I also added random.seed.
+    The data visualization was created with python, and the code is accessible. I also added the original source of the data. It may not be needed in this case, but I also added random.seed. 
     
     > How did you ensure that your data visualization is accessible?  
     I used the 'colorblind' theme in hope of supporting accessibility. I added descriptive texts.
